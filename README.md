@@ -8,3 +8,19 @@ This repository contains my accepted LeetCode solutions across various topics an
 * 📅 **Historical commits:** Preserved using `glsync`
 
 Happy Coding! ⭐
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+<!---LeetCode Topics End-->
