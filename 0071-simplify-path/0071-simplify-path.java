@@ -21,10 +21,13 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
         //String sb="";
-        while (!st.isEmpty()) 
+        /*while (!st.isEmpty()) 
         {
             sb.insert(0, "/" + st.pop());
             //sb+= "/" + st.pop();
+        }*/
+        for(String dir : st){
+            sb.append("/").append(dir);
         }
 
         return sb.length() == 0 ? "/" : sb.toString();        
