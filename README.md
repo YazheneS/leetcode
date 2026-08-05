@@ -15,6 +15,7 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0071-simplify-path](https://github.com/YazheneS/leetcode/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,5 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0071-simplify-path](https://github.com/YazheneS/leetcode/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
