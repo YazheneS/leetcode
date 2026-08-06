@@ -58,4 +58,8 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/YazheneS/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/YazheneS/leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
