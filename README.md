@@ -84,6 +84,7 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YazheneS/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/YazheneS/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0704-binary-search](https://github.com/YazheneS/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -122,5 +123,6 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YazheneS/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/YazheneS/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/YazheneS/leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
