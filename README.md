@@ -56,10 +56,12 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/YazheneS/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/YazheneS/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/YazheneS/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/YazheneS/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Happy Coding! ⭐
 | [0704-binary-search](https://github.com/YazheneS/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/YazheneS/leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/YazheneS/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
