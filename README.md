@@ -26,6 +26,7 @@ Happy Coding! ⭐
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/YazheneS/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -66,9 +67,11 @@ Happy Coding! ⭐
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
