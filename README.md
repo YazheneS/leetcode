@@ -37,6 +37,7 @@ Happy Coding! ⭐
 | [0844-backspace-string-compare](https://github.com/YazheneS/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YazheneS/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/YazheneS/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -81,12 +82,14 @@ Happy Coding! ⭐
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/YazheneS/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/YazheneS/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -96,4 +99,8 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/YazheneS/leetcode/tree/main/0224-basic-calculator/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
