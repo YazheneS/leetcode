@@ -82,6 +82,7 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+| [0704-binary-search](https://github.com/YazheneS/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -113,4 +114,8 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/YazheneS/leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
