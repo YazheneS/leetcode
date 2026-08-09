@@ -16,6 +16,7 @@ Happy Coding! ⭐
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/YazheneS/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0224-basic-calculator](https://github.com/YazheneS/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/YazheneS/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0844-backspace-string-compare](https://github.com/YazheneS/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YazheneS/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -29,6 +30,7 @@ Happy Coding! ⭐
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YazheneS/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/YazheneS/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0224-basic-calculator](https://github.com/YazheneS/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/YazheneS/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -70,6 +72,7 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/YazheneS/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0224-basic-calculator](https://github.com/YazheneS/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +89,8 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/YazheneS/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/YazheneS/leetcode/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
