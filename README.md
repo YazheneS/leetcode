@@ -43,6 +43,7 @@ Happy Coding! ⭐
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YazheneS/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Happy Coding! ⭐
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0735-asteroid-collision](https://github.com/YazheneS/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/YazheneS/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -104,6 +106,11 @@ Happy Coding! ⭐
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YazheneS/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/YazheneS/leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0641-design-circular-deque](https://github.com/YazheneS/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
